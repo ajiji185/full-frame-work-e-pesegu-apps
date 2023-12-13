@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "531321271528",
+    "project_id": "e-pesegu-app",
+    "storage_bucket": "e-pesegu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531321271528:android:17476d7f59a3cde359455d",
+        "android_client_info": {
+          "package_name": "com.example.e_pesegu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531321271528-1ksbf2n1vc8ktd1n908el4kn9pv3fd4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.e_pesegu_app",
+            "certificate_hash": "e605531e7ab91925eff3ff284554441e5515b907"
+          }
+        },
+        {
+          "client_id": "531321271528-8ool9coolafgpq4ob7hbpde592uolq52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_aYBt6FJkNY7vUl21289P9Z-aMJdlfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531321271528-8ool9coolafgpq4ob7hbpde592uolq52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

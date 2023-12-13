@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">E-Pesegu-app</string>
+
+    <string-array name="jabatan">
+        <item>Cawangan Bandaraya</item>
+        <item>Jabatan Hal Ehwal Agama Islam Negeri Sabah</item>
+        <item>Jabatan Perikanan</item>
+        <item>Jabatan Pengairan Dan Saliran</item>
+        <item>Jabatan Ketua Menteri</item>
+        <item>Jabatan Bendahari Negeri</item>
+        <item>Kementerian Pembangunan Luar Bandar (KPLB)</item>
+        <item>Kementerian Sains, Teknologi Dan Inovasi</item>
+        <item>Kementerian Kerja Raya (KKR)</item>
+        <item>Kementerian Pembangunan Perindustrian Dan Keusahawanan</item>
+        <item>Kementerian Kerajaan Tempatan Dan Perumahan</item>
+        <item>Kementerian Pelancongan, Kebudayaan Dan Alam Sekitar</item>
+        <item>Kementerian Pembangunan Masyarakat Dan Kesejahteraan Rakyat</item>
+        <item>Kementerian Pembangunan Perindustrian Dan Keusahawanan</item>
+        <item>Wilayah SANDAKAN</item>
+        <item>Wilayah TAWAU</item>
+        <item>Wilayah PANTAI BARAT UTARA</item>
+        <item>Wilayah PEDALAMAN BAWAH</item>
+        <item>PERPUSTAKAAN NEGERI SABAH</item>
+
+
+    </string-array>
+    <string-array name="Kontrak">
+        <item>JPKN/2021/AKNS/01</item>
+        <item>JPKN/2021/29</item>
+        <item>JPKN/2022/41</item>
+
+
+    </string-array>
+
+</resources>
